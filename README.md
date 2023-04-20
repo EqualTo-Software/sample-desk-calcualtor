@@ -1,5 +1,6 @@
 # A Rustic invitation to parsing: Calculator demo
 This is the code repository that accompanies the [Rustic invitation to parsing](https://www.equalto.com/blog/a-rustic-invitation-to-parsing) blog post.
+It provides a simple "desk calcualtor", showing how to build a handmade parser in Rust.
 
 To run the calculator:
 
