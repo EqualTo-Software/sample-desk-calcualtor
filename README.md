@@ -8,6 +8,13 @@ To run the calculator:
 $ cargo run
 ```
 
+To confirm that the calculator is working as expected, provide the input `1+2` and you should receive the output `3`:
+
+```
+Input: 1+2
+Output: 3
+```
+
 ## Test
 
 ```bash
